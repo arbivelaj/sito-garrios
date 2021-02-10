@@ -1,0 +1,22 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.img {
+  width: 100%;
+}
+
+.img1,
+.img2,
+.img3 {
+  margin-top: -4px;
+}
+
+body {
+  margin: 0 !important;
+}
+
+@media screen and (max-width: 992px) {
+  .img {
+    width: 100%;
+  }
+}
